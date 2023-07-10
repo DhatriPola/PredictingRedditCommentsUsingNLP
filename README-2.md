@@ -1,14 +1,5 @@
 ## Predicting Comments on Reddit
 
-
-<br>
-<br>
-<p align="center">
-  <img src="https://github.com/marcotav/predicting-the-number-of-comments-on-reddit/blob/master/Reddit-logo.png" 
-       width="150" height="150">
-</p>
-<br>
-
 <p align="center">
   <a href="#ps"> Problem Statement </a> •
   <a href="#steps"> Steps </a> •
